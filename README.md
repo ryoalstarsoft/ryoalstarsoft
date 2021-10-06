@@ -124,6 +124,7 @@
 > Social and Community links to connect with me.
 
 <p align="right">
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
   [![codepen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/starbinna)
   [![dev](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg)](https://dev.to/@starbinna)
   [![stackoverflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/starbinna)
