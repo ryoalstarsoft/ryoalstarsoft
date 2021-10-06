@@ -19,14 +19,10 @@
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
 > GitHub Profile Status
-<p align="center">
-  <a href="https://github.com/starbinna/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=starbinna&show_icons=true&bg_color=0e2239&text_color=58a6ff&border_color=114a88" width="40%" height="165">
-  </a>
-  <a href="https://github.com/starbinna/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0e2239&text_color=58a6ff&border_color=114a88" width="40%"  height="165">
-  </a>
-</p>
+<div style="justify-content:space-between;display:flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=starbinna&show_icons=true&bg_color=0e2239&text_color=58a6ff&border_color=114a88" width="50%" height="160">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0e2239&text_color=58a6ff&border_color=114a88" width="50%" height="160">
+</div>
 > GitHub Activity Graph
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/starbinna/starbinna"><img alt="starbinna's activity graph" src="https://activity-graph.herokuapp.com/graph?username=starbinna&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
