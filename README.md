@@ -24,7 +24,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=starbinna&show_icons=true&bg_color=0e2239&text_color=58a6ff&border_color=114a88" height="165">
   </a>
   <a href="https://github.com/starbinna/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starbinna&layout=compact&bg_color=0e2239&text_color=58a6ff&border_color=114a88"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0e2239&text_color=58a6ff&border_color=114a88"  height="165">
   </a>
 </p>
 > GitHub Activity Graph
