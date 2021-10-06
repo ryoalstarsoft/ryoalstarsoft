@@ -20,7 +20,9 @@
 
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
-
-> Github activity graph
+> GitHub Profile Status
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starbinna&show_icons=true&locale=en&layout=compact" alt="starbinna" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=starbinna&show_icons=true&locale=en" alt="starbinna" />
+> GitHub Activity Graph
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/starbinna/starbinna"><img alt="starbinna's activity graph" src="https://activity-graph.herokuapp.com/graph?username=starbinna&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
