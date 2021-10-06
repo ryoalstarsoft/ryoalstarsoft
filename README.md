@@ -111,8 +111,8 @@
 > GitHub Profile Status
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=starbinna&show_icons=true&bg_color=0e2239&text_color=58a6ff&border_color=114a88" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0e2239&text_color=58a6ff&border_color=114a88" width="45.25%">
+    <img src="https://github-readme-stats.vercel.app/api?username=starbinna&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
 
 <br />
@@ -129,6 +129,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/starbinna"/></a>
   <a href="https://github.com/starbinna?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/starbinna?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/starbinna/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/starbinna-profile-views"/></a>
+  <a href="https://github.com/starbinna">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=starbinna&style=for-the-badge"/></a>
 </p>
