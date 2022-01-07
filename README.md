@@ -124,6 +124,8 @@
 
 <br />
 
+![Metrics](https://metrics.lecoq.io/starbinna?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FSeoul)
+
 <p align="right">
   <a href="https://github.com/starbinna?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/starbinna"/></a>
