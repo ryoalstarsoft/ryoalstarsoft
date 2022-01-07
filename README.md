@@ -124,8 +124,8 @@
 
 <br />
 
-  ![Metrics](https://metrics.lecoq.io/starbinna?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FSeoul)
-  ![Metrics](https://metrics.lecoq.io/starbinna?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FSeoul)
+![Metrics](https://metrics.lecoq.io/starbinna?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FSeoul)
+![Metrics](https://metrics.lecoq.io/starbinna?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FSeoul)
 
 <p align="right">
   <a href="https://github.com/starbinna?tab=repositories&sort=stargazers">
