@@ -26,15 +26,12 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_padding: 50, 15 + 11%
+          config_padding: 0, 8 + 11%
           config_timezone: Asia/Seoul
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 56
+          plugin_people_limit: 38
+          plugin_people_size: 44
           plugin_people_types: followers, following
