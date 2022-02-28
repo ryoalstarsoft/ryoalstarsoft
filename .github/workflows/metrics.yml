@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: starbinna
+          user: atosinu
           template: classic
           base: ""
           config_display: large
