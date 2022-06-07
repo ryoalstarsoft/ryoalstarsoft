@@ -139,3 +139,5 @@
   <a href="https://github.com/atosinu">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=atosinu&style=for-the-badge"/></a>
 </p>
+
+![Snake animation](https://github.com/atosinu/atosinu/blob/output/github-contribution-grid-snake.svg)
