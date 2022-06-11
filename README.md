@@ -1,8 +1,8 @@
+<img alt="git art work animation" title="Git Art Work Animation" src="https://github.com/atosinu/atosinu/blob/main/gitartwork.svg" width="100%" style="margin-left:-32px" />
+<br />
 <p align="center">
   <a href="https://github.com/starbinna"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<br />
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Programming languages.
