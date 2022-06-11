@@ -15,4 +15,4 @@
             user_name: atosinu
             # Text on contribution graph 
             text: ATOSINU
-       - uses: atosinu/push-action@v1
+       - uses: atosinu/push-action@v1.01
