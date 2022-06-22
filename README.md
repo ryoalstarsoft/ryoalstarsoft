@@ -5,6 +5,8 @@
 </p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
+<a href="https://app.daily.dev/atosinu"><img src="https://api.daily.dev/devcards/503d11c10db742cb8886d9bab72f016a.png?r=6tf" width="400" alt="aTosinu's Dev Card"/></a>
+
 > Programming languages.
 
 <p>
