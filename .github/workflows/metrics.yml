@@ -33,5 +33,5 @@ jobs:
           plugin_achievements_threshold: C
           plugin_people: yes
           plugin_people_limit: 38
-          plugin_people_size: 44
+          plugin_people_size: 60
           plugin_people_types: followers, following
