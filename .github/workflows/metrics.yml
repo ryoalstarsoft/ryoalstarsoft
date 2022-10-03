@@ -27,11 +27,7 @@ jobs:
           base: ""
           config_display: large
           config_padding: 0, 8 + 11%
-          config_timezone: Asia/Seoul
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
           plugin_people: yes
-          plugin_people_limit: 38
-          plugin_people_size: 60
+          plugin_people_limit: 16
+          plugin_people_size: 120
           plugin_people_types: followers, following
