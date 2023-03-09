@@ -28,6 +28,6 @@ jobs:
           config_display: large
           config_padding: 0, 8 + 11%
           plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 120
+          plugin_people_limit: 32
+          plugin_people_size: 150
           plugin_people_types: followers, following
